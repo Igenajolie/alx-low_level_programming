@@ -1,1 +1,1 @@
-c Programming
+C language continuation
